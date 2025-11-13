@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 my name is niushafodf
-=======
 i am a btech student
->>>>>>> main
